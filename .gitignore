@@ -1,0 +1,5 @@
+.venv
+venv
+expenses.db
+*.txt
+
